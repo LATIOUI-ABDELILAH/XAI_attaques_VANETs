@@ -1,0 +1,12 @@
+# Données
+data/raw/
+data/processed/
+*.csv
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
