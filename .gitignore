@@ -10,3 +10,8 @@ data/processed/
 # Python
 __pycache__/
 *.pyc
+
+notebooks/catboost_info/
+notebooks/test.ipynb
+models/dice_results.pkl
+models/random_forest_binary.pkl
